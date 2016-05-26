@@ -9,8 +9,8 @@
 title: Gravity
 email: hemangsk@gmail.com
 description: The Liberal Jekyll Theme
-baseurl: "/R" # the subpath of your site, e.g. /blog
-url: "http://nistara.github.io/R" # the base hostname & protocol for your site
+baseurl: "/R-for-PREDICT-and-VISHA" # the subpath of your site, e.g. /blog
+url: "http://nistara.github.io/R-for-PREDICT-and-VISHA" # the base hostname & protocol for your site
 github_username:  nistara
 
 # Build settings

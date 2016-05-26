@@ -4,7 +4,7 @@ title : About
 permalink: /about/
 ---
 
-<p>Site for creating and storing R resources<br>for our teams.</p>
+<p>Site for creating and storing R resources<br>for our teams in Tanzania, Rwanda, etc..</p>
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
 <br>

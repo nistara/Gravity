@@ -4,8 +4,7 @@ title : About
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<p>Site for creating and storing R resources<br>for our teams.</p>
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
 <br>
